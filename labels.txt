@@ -1,0 +1,2 @@
+0 perros callejeros
+1 gatos callejeros
